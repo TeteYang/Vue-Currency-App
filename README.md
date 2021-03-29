@@ -1,4 +1,4 @@
-# weatherapp
+# currencyapp
 
 ## Project setup
 ```
